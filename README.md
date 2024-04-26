@@ -15,7 +15,7 @@ The species list is mainly based on the ICNP list of species available [here](ht
 
 Please open an issue and feel free to contribute. We believe that this could represent a community resource which could be both amended and being used by many. We will acknowledge your contribution on this page.
 
-### How can I cite this?
+### How can you cite this?
 
 This repository is mirrored at [Zenodo](https://zenodo.org/records/11072745) and is equipped with the following DOI: [![DOI](https://zenodo.org/badge/792295997.svg)](https://zenodo.org/doi/10.5281/zenodo.11072744)
 
@@ -26,6 +26,6 @@ Antonia Eichelberg\
 Céline Margot\
 Frederik Hammes\
 Johanna Kohler\
+Jürg Sigrist\
 Marco Gabrielli\
 Natasha Roser\
-Jürg Sigrist
