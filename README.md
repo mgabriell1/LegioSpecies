@@ -25,6 +25,7 @@ Alessio Cavallaro\
 Antonia Eichelberg\
 Céline Margot\
 Frederik Hammes\
+Johanna Kohler\
 Marco Gabrielli\
 Natasha Roser\
 Jürg Sigrist
