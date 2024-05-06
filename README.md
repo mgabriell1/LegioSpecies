@@ -19,7 +19,9 @@ Please open an issue and feel free to contribute. We believe that this could rep
 
 This repository is mirrored at [Zenodo](https://zenodo.org/records/11072745) and is equipped with the following DOI: [![DOI](https://zenodo.org/badge/792295997.svg)](https://zenodo.org/doi/10.5281/zenodo.11072744) \
 If you find this list useful, we would appreciate that you cite it as following: \
+```
 LeCo Project, LegioSpecies - an updated and referenced list of Legionellaceae species, 2024. DOI: 10.5281/zenodo.11072744 
+```
 
 ## Contributing team (alphabetical order)
 
@@ -30,4 +32,4 @@ Frederik Hammes\
 Johanna Kohler\
 Jürg Sigrist\
 Marco Gabrielli\
-Natasha Roser\
+Natasha Roser
